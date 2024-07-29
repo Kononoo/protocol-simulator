@@ -4,6 +4,7 @@ import (
 	"flag"
 	"github.com/sirupsen/logrus"
 	"protocol-simulator/internal"
+	"protocol-simulator/protocols"
 )
 
 func main() {
